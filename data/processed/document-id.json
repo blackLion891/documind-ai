@@ -1,0 +1,14 @@
+{
+    "document_id": "generated-id",
+    "file_name": "sample.txt",
+    "chunk_count": 1,
+    "embedding_dimensions": 384,
+    "chunks": [
+        {
+            "chunk_id": "chunk-id",
+            "page_number": 1,
+            "text": "Artificial intelligence is useful.",
+            "embedding": [0.1, 0.2, 0.3]
+        }
+    ]
+}
